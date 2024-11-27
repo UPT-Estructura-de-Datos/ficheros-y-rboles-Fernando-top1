@@ -1,0 +1,3 @@
+Nombre: Fernando, Sección: B
+Nombre: Yerry Especial, Sección: A
+Nombre: Ivan, Sección: C
